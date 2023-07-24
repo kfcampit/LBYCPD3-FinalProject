@@ -1,4 +1,7 @@
-Running: xsim.dir/DIG_COUNTER_SIX_TB_behav/xsimk.exe -simmode gui -wdb DIG_COUNTER_SIX_TB_behav.wdb -simrunnum 0 -socket 57996
+Running: xsim.dir/DIG_COUNTER_SIX_TB_behav/xsimk.exe -simmode gui -wdb DIG_COUNTER_SIX_TB_behav.wdb -simrunnum 0 -socket 58225
 Design successfully loaded
-Design Loading Memory Usage: 7828 KB (Peak: 7828 KB)
-Design Loading CPU Usage: 0 ms
+Design Loading Memory Usage: 7820 KB (Peak: 7820 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 8376 KB (Peak: 8376 KB)
+Simulation CPU Usage: 15 ms

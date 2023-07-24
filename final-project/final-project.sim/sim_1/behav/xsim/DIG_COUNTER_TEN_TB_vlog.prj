@@ -1,7 +1,7 @@
 # compile verilog/system verilog design source files
 verilog xil_defaultlib  \
-"../../../../final-project.srcs/sources_1/new/DIG_COUNTER.v" \
-"../../../../final-project.srcs/sim_1/new/DIG_COUNTER_SIX_TB.v" \
+"../../../../final-project.srcs/sources_1/new/DIG_COUNTER_TEN.v" \
+"../../../../final-project.srcs/sim_1/new/DIG_COUNTER_TEN_TB.v" \
 
 # compile glbl module
 verilog xil_defaultlib "glbl.v"

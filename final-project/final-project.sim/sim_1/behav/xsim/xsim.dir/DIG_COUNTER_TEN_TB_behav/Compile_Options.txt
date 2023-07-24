@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "DIG_COUNTER_TEN_TB_behav" "xil_defaultlib.DIG_COUNTER_TEN_TB" "xil_defaultlib.glbl" -log "elaborate.log" 

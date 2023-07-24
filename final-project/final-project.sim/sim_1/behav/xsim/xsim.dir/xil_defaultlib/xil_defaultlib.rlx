@@ -4,4 +4,6 @@ Oct 14 2022
 05:20:55
 C:/Users/Kyle Campit/Documents/GitHub/LBYCPD3-FinalProject/final-project/final-project.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
 C:/Users/Kyle Campit/Documents/GitHub/LBYCPD3-FinalProject/final-project/final-project.srcs/sim_1/new/DIG_COUNTER_SIX_TB.v,1690188761,verilog,,,,DIG_COUNTER_SIX_TB,,,,,,,,
-C:/Users/Kyle Campit/Documents/GitHub/LBYCPD3-FinalProject/final-project/final-project.srcs/sources_1/new/DIG_COUNTER.v,1690188447,verilog,,C:/Users/Kyle Campit/Documents/GitHub/LBYCPD3-FinalProject/final-project/final-project.srcs/sim_1/new/DIG_COUNTER_SIX_TB.v,,DIG_COUNTER_SIX,,,,,,,,
+C:/Users/Kyle Campit/Documents/GitHub/LBYCPD3-FinalProject/final-project/final-project.srcs/sim_1/new/DIG_COUNTER_TEN_TB.v,1690189303,verilog,,,,DIG_COUNTER_TEN_TB,,,,,,,,
+C:/Users/Kyle Campit/Documents/GitHub/LBYCPD3-FinalProject/final-project/final-project.srcs/sources_1/new/DIG_COUNTER.v,1690189711,verilog,,C:/Users/Kyle Campit/Documents/GitHub/LBYCPD3-FinalProject/final-project/final-project.srcs/sim_1/new/DIG_COUNTER_SIX_TB.v,,DIG_COUNTER_SIX,,,,,,,,
+C:/Users/Kyle Campit/Documents/GitHub/LBYCPD3-FinalProject/final-project/final-project.srcs/sources_1/new/DIG_COUNTER_TEN.v,1690189835,verilog,,C:/Users/Kyle Campit/Documents/GitHub/LBYCPD3-FinalProject/final-project/final-project.srcs/sim_1/new/DIG_COUNTER_TEN_TB.v,,DIG_COUNTER_TEN,,,,,,,,
